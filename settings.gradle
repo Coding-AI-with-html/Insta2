@@ -1,0 +1,2 @@
+rootProject.name='Instagram2'
+include ':app'
